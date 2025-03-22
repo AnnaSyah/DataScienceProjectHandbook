@@ -4,7 +4,7 @@ Welcome to this repository!
 This is a collection of hands-on case studies from *Chapter 2: Python for Data Science* in the **Data Science Project Handbook**. Whether you're just starting with Python in Data Science or looking for practical examples to enhance your skills, you've come to the right place!
 
 
-<br>**🔍 What's Inside?**</br>
+## <br>**🔍 What's Inside?**</br>
 
 * **Case Study 2.1 – Sentiment Analysis of Customer Reviews**
 <br>Analyze customer sentiment using List Comprehension and Dictionary Comprehension to efficiently process and evaluate review scores.</br>
@@ -14,7 +14,7 @@ This is a collection of hands-on case studies from *Chapter 2: Python for Data S
 <br>A more in-depth look at customer shopping patterns, leveraging functional programming techniques in Python to extract meaningful insights.</br>
 
 
-<br>**🎯 Who Is This For?**</br>
+## <br>**🎯 Who Is This For?**</br>
 
 1. Beginners looking to apply Python in real-world Data Science scenarios.
 2. Data professionals seeking practical implementations of key Python concepts.
@@ -22,7 +22,7 @@ This is a collection of hands-on case studies from *Chapter 2: Python for Data S
 
 
 
-<br>**💡 How to Use This Repository?**</br>
+## <br>**💡 How to Use This Repository?**</br>
 
 1. Clone the repository:
         git clone https://github.com/your-username/repository-name.git
@@ -31,7 +31,7 @@ This is a collection of hands-on case studies from *Chapter 2: Python for Data S
 
 
 
-<br>**🤝 Contributing**</br>
+## <br>**🤝 Contributing**</br>
 
 We welcome contributions! If you have ideas, improvements, or additional case studies, feel free to submit a pull request or open an issue.
 
