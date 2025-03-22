@@ -25,11 +25,12 @@ This is a collection of hands-on case studies from *Chapter 2: Python for Data S
 ## <br>**💡 How to Use This Repository?**</br>
 
 1. Clone the repository:
-        git clone https://github.com/your-username/repository-name.git
+   ```
+   git clone https://github.com/your-username/repository-name.git 
+   ```
 2. Navigate to the desired case study folder.
 3. Run the Python scripts and experiment with the code!
-
-
+   
 
 ## <br>**🤝 Contributing**</br>
 
