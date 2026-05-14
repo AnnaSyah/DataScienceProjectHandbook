@@ -9,7 +9,7 @@ Beginner-friendly and practical Python case studies for Data Science projects an
 ---
 
 <p align="center">
-  <img src="image/cover-data-science-handbook.jpeg" width="260" alt="Data Science Project Handbook Cover">
+  <img src="Image/cover-data-science-handbook.jpeg" width="260" alt="Data Science Project Handbook Cover">
 </p>
 
 <p align="center">
